@@ -10,12 +10,8 @@
 <div align="center">
     <img src="rabbit.png" width="250px" height="150px"/>
 </div>
-<font align="center" face="楷体" color="green">让我们做一个调查</font><br/>
+<div align="center"><font face="楷体" size="5" color="red">这只是一张图片</font></div>
 
-<form action="https://www.4399.com">
-    标题是什么颜色:<select name="color" value="red">红色</select><br/>
-    <input type="submit">
-</form>
 </body>
 
 

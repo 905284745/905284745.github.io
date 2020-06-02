@@ -5,6 +5,6 @@
 </head>
 <body>
     <a align="Center" href="https://www.baidu.com">点击前往</a><br/>
-    <img arc="rabbit.png"/>
+    <img src="rabbit.png"/>
 </body>
 </html>

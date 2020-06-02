@@ -1,11 +1,10 @@
 <html>
-  <head>
-    <title>这是一个页面</title>    
-  </head>
   
   <body>
   <a href="http://www.baidu.com">点击跳转</a>
-  
+  <script>
+    alert("你的浏览器版本过低!");
+  </script>
   </body>
   
   
